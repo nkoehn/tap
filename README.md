@@ -1,3 +1,1 @@
-# tap
-
-readme
+Sample org structure for application catalog
